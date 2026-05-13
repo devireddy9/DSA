@@ -9,3 +9,4 @@ def insertion_sort(arr):
         arr[j+1] = element
     return arr
 print (insertion_sort([22,342,2312,1,354,2,2,3423,5412,3,213,3,421,3,-12 ,0,-13]))
+
